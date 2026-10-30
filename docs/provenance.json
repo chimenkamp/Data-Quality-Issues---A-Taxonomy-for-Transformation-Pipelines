@@ -1,0 +1,365 @@
+{
+  "source_repository": "https://github.com/KaD816/dqp-prozessanalyse",
+  "source_commit": "7744664d12c87e55b65ba10d0d1fb1cda9654870",
+  "translation_language": "English",
+  "files": [
+    {
+      "source": "README.md",
+      "source_sha256": "30094477465521d02336626a305c759110d2edbe3b380357bbe951b6b42b8895",
+      "action": "replaced with reviewer guide",
+      "outputs": [
+        {
+          "path": "README.md",
+          "sha256": "d94b9c602a067166dafe7fda30ae5e961e807300b4b2aea335c5c428890c2eec"
+        }
+      ]
+    },
+    {
+      "source": "abbildungen/dsr-diagramm.jpg",
+      "source_sha256": "702dc19cf2485c4e352ae24f48b6d1d37ddbc578d5f165c6978b60e99017aee7",
+      "action": "English SVG recreation and PNG preview",
+      "outputs": [
+        {
+          "path": "figures/design-science-research.svg",
+          "sha256": "940a6d925b3b69866ac9958dd14828cd77c62917ce43b1f8deaf6ee374b25857"
+        },
+        {
+          "path": "figures/design-science-research.png",
+          "sha256": "da05f36738e91480a873106445b899f1b5fafb33469421da989c2a93eb112f22"
+        }
+      ]
+    },
+    {
+      "source": "abbildungen/prisma-diagramm.jpg",
+      "source_sha256": "14634c9f36d8c2d1dd87f72687f3bee8faffdf0bb30eaf83f15ed8ad1549ce44",
+      "action": "English SVG recreation and PNG preview",
+      "outputs": [
+        {
+          "path": "figures/prisma-flow.svg",
+          "sha256": "29398afe0eddca9c7db200758f3d8767b87d0a9891ecb2e9f941a8d4313aecd6"
+        },
+        {
+          "path": "figures/prisma-flow.png",
+          "sha256": "a05148049200bdb1c4945babfd03f48584bab9eeba96340d37379e6632322f40"
+        }
+      ]
+    },
+    {
+      "source": "abbildungen/prozessanalyse-pipeline.jpg",
+      "source_sha256": "4aa3a22e5e7f8e23e5c016e5a44556edff4ad2e8a104d8e191a9047368878b16",
+      "action": "English SVG recreation and PNG preview",
+      "outputs": [
+        {
+          "path": "figures/transformation-pipeline.svg",
+          "sha256": "6a72abee081fa30433d3cacc2d7c46d88abfedb90edec9e9a6a8bcfe3213ccea"
+        },
+        {
+          "path": "figures/transformation-pipeline.png",
+          "sha256": "56e153eafc2326bf7984d69016b90f52384bda04de372e6870baf6e7446a1cbc"
+        }
+      ]
+    },
+    {
+      "source": "abbildungen/taxonomie-abstraktion.jpg",
+      "source_sha256": "37ce5d97f23b135df89e1bf32b175a4f594d55ab2f5efbbd34155430909f79ea",
+      "action": "English SVG recreation and PNG preview",
+      "outputs": [
+        {
+          "path": "figures/taxonomy-abstraction.svg",
+          "sha256": "493d7571c4ee0c8e9a034f9108c4be9104f5f280598f33f65dbaf2a716482911"
+        },
+        {
+          "path": "figures/taxonomy-abstraction.png",
+          "sha256": "f22cf5126dc19a54e03f736f96ac25c96c727132d4caf4cf4f8c2a4f20b2eebf"
+        }
+      ]
+    },
+    {
+      "source": "abbildungen/taxonomie-fallkorrelation.jpg",
+      "source_sha256": "c254ca00a4f4201885488a90f2c99b366233ae036677ee8c8cdf4b95bea50d74",
+      "action": "English SVG recreation and PNG preview",
+      "outputs": [
+        {
+          "path": "figures/taxonomy-case-correlation.svg",
+          "sha256": "fdc9fbc5a2de642abe6e5c57f9eac2ee5b2d4a510810b4817a54e3eb9cb12f8d"
+        },
+        {
+          "path": "figures/taxonomy-case-correlation.png",
+          "sha256": "2002d546263ed906d51f323860d135be235ad7f54df3039f69e622be0e7fe95d"
+        }
+      ]
+    },
+    {
+      "source": "abbildungen/taxonomie-hoechste-ebene.jpg",
+      "source_sha256": "e97ee0a820e2862497e1c1092e60b7f28d2aa6e6ff6d5b400ac4f6f2acf2cd73",
+      "action": "English SVG recreation and PNG preview",
+      "outputs": [
+        {
+          "path": "figures/taxonomy-overview.svg",
+          "sha256": "602e8d713d9781fa37fdf051124725cced88ea437535be2f6c4c55a2ac894aa6"
+        },
+        {
+          "path": "figures/taxonomy-overview.png",
+          "sha256": "8f76ec119652bb6f4d7274d2a56c31d17af571362993d61c68a9b95c85664c7b"
+        }
+      ]
+    },
+    {
+      "source": "abbildungen/taxonomie-process-mining.jpg",
+      "source_sha256": "298d366ea5db3a7a45f5b0fbb73e5dfbde343f0410cb5f56fd04baf34cfb9a67",
+      "action": "English SVG recreation and PNG preview",
+      "outputs": [
+        {
+          "path": "figures/taxonomy-process-mining.svg",
+          "sha256": "8775eeeaecc21fbb139d72f675d566429ca7521b9916169d3fa170c5b5c07b4a"
+        },
+        {
+          "path": "figures/taxonomy-process-mining.png",
+          "sha256": "870ca99adaf1172245a6afe9b32df06bd2fa2ea27f4d0bd6d8ee2d7c98f1ece0"
+        }
+      ]
+    },
+    {
+      "source": "abbildungen/taxonomie-visualisierung.jpg",
+      "source_sha256": "6cc4187b3ce9d9b130291d92853d2ca70351d0bdfde0555e24a3061cab099c63",
+      "action": "English SVG recreation and PNG preview",
+      "outputs": [
+        {
+          "path": "figures/taxonomy-visualization.svg",
+          "sha256": "7e5c8a72ad79d28175f65ec2f0fbb9f7ef72d24877c4e9205edeaa720a978686"
+        },
+        {
+          "path": "figures/taxonomy-visualization.png",
+          "sha256": "3865b592c3da53bec4bdb9c8b6c6ec7a1707342f5f421855149eea531eb30f46"
+        }
+      ]
+    },
+    {
+      "source": "abbildungen/taxonomie-vorverarbeitung.jpg",
+      "source_sha256": "4b06fc2dfb373ffc2dcce72f3818fd2aa1d7032367708d074f779b07be24c0ca",
+      "action": "English SVG recreation and PNG preview",
+      "outputs": [
+        {
+          "path": "figures/taxonomy-preprocessing.svg",
+          "sha256": "4acd78cb8f8cb344ee2261bd170274f67e2886f9c5aae7faa5feac5b5758789f"
+        },
+        {
+          "path": "figures/taxonomy-preprocessing.png",
+          "sha256": "227b0e87db2eb2217ecf3072c3f7fe611c7b31df98caae496f2d1e5c0b4de7dd"
+        }
+      ]
+    },
+    {
+      "source": "tabellen/export-wos/export-wos-abstraktion.xls",
+      "source_sha256": "3fd2bfc4844e376fa656d128aaf4ee504bf1af40f57ea0ad67218e647375a0bd",
+      "action": "unchanged database export; English filename",
+      "outputs": [
+        {
+          "path": "tables/wos-exports/wos-abstraction.xls",
+          "sha256": "3fd2bfc4844e376fa656d128aaf4ee504bf1af40f57ea0ad67218e647375a0bd"
+        }
+      ]
+    },
+    {
+      "source": "tabellen/export-wos/export-wos-datensammlung.xls",
+      "source_sha256": "01bff0bb2679cc7f3b1c5f6e92795107c85632aa299307234ff33c1c10167cda",
+      "action": "unchanged database export; English filename",
+      "outputs": [
+        {
+          "path": "tables/wos-exports/wos-data-acquisition.xls",
+          "sha256": "01bff0bb2679cc7f3b1c5f6e92795107c85632aa299307234ff33c1c10167cda"
+        }
+      ]
+    },
+    {
+      "source": "tabellen/export-wos/export-wos-fallkorrelation.xls",
+      "source_sha256": "2def629e6af75200bc11be82dacc722716f610226f6e5c5f87c81a780e72068b",
+      "action": "unchanged database export; English filename",
+      "outputs": [
+        {
+          "path": "tables/wos-exports/wos-case-correlation.xls",
+          "sha256": "2def629e6af75200bc11be82dacc722716f610226f6e5c5f87c81a780e72068b"
+        }
+      ]
+    },
+    {
+      "source": "tabellen/export-wos/export-wos-process-mining-anwendung.xls",
+      "source_sha256": "835e8ef18ac531d8eef7fce3b040bd02af39cb8094d1b7fc81be0cdddadb8a50",
+      "action": "unchanged database export; English filename",
+      "outputs": [
+        {
+          "path": "tables/wos-exports/wos-process-mining.xls",
+          "sha256": "835e8ef18ac531d8eef7fce3b040bd02af39cb8094d1b7fc81be0cdddadb8a50"
+        }
+      ]
+    },
+    {
+      "source": "tabellen/export-wos/export-wos-visualisierung.xls",
+      "source_sha256": "cea676b70106ae8f880202e37f2d4661300af86eef5826145dabcb43cfe2be1d",
+      "action": "unchanged database export; English filename",
+      "outputs": [
+        {
+          "path": "tables/wos-exports/wos-visualization.xls",
+          "sha256": "cea676b70106ae8f880202e37f2d4661300af86eef5826145dabcb43cfe2be1d"
+        }
+      ]
+    },
+    {
+      "source": "tabellen/export-wos/export-wos-vorverarbeitung.xls",
+      "source_sha256": "4eb4832978eb4d7a829db296896e0d67f475007f7af1045eb82d8a4ca77d676e",
+      "action": "unchanged database export; English filename",
+      "outputs": [
+        {
+          "path": "tables/wos-exports/wos-preprocessing.xls",
+          "sha256": "4eb4832978eb4d7a829db296896e0d67f475007f7af1045eb82d8a4ca77d676e"
+        }
+      ]
+    },
+    {
+      "source": "tabellen/rahmenwerk-iteration-2.xlsx",
+      "source_sha256": "a5abba8d0702f875fb3b339eb73f660a77e99d42444a9f4926e31504420658e5",
+      "action": "translated workbook",
+      "outputs": [
+        {
+          "path": "tables/framework-iteration-2.xlsx",
+          "sha256": "50c07b79032642b1b3d65f535c6cee5c9e29ce09c63d4a49ac624171dd6566d2"
+        }
+      ]
+    },
+    {
+      "source": "tabellen/rahmenwerk-iteration-3.xlsx",
+      "source_sha256": "9d4dff1e2fbcedeb43e6d5ac61fd89a8cdb8e257d54be79eb6bbd1dda18ddd62",
+      "action": "translated workbook",
+      "outputs": [
+        {
+          "path": "tables/framework-iteration-3.xlsx",
+          "sha256": "063cd070a2ae28c25132f153ea4cfaca9378a562c02e1ad17f2571b155e1c725"
+        }
+      ]
+    },
+    {
+      "source": "tabellen/rahmenwerk-iteration-4.xlsx",
+      "source_sha256": "2afad3df212468deebd36d293e5e57adee3bcac93498375c509118ca30b00bbb",
+      "action": "translated workbook",
+      "outputs": [
+        {
+          "path": "tables/framework-iteration-4.xlsx",
+          "sha256": "93fdce33d2bdb296246cc6c1c6f81256fec09f49c7c555a856b74381abd7f5eb"
+        }
+      ]
+    },
+    {
+      "source": "tabellen/rahmenwerk-iteration-5.xlsx",
+      "source_sha256": "e46d68ae3adb6e6db24a1e6cc4973537a46ed8bbb0db01ecf5557dbeeaf4303e",
+      "action": "translated workbook",
+      "outputs": [
+        {
+          "path": "tables/framework-iteration-5.xlsx",
+          "sha256": "8ede6a42cc25cc0d9c21476021b2619fe2b17fc6939528ded42b064aa190bc81"
+        }
+      ]
+    },
+    {
+      "source": "tabellen/rahmenwerk-änderungen-fuer-iteration-5.xlsx",
+      "source_sha256": "6f5877cbd34f5ece000b93cd61b758b43f7a196fca7fdf1273308f3a49979480",
+      "action": "translated workbook",
+      "outputs": [
+        {
+          "path": "tables/framework-changes-for-iteration-5.xlsx",
+          "sha256": "df4ba176acb4c7daaf33fe49ec8745509444528afa6a97529d3bb2fdd37115a7"
+        }
+      ]
+    },
+    {
+      "source": "tabellen/tabelle-auswirkungen.xlsx",
+      "source_sha256": "523d0a3cfc5bb7b6edd720bcbac4478dcb77504e94979b2eca910045c43458b7",
+      "action": "translated workbook",
+      "outputs": [
+        {
+          "path": "tables/effects.xlsx",
+          "sha256": "14f63e278a81a351cb73a48bf93abdeedf27792c3a159a7f95828a12251de6a2"
+        }
+      ]
+    },
+    {
+      "source": "tabellen/tabelle-definitionen.xlsx",
+      "source_sha256": "7fbe89d4e6f9ff62ebe9718e9c05a17f4e5fc5ef6c4577528b89a78f70303afe",
+      "action": "translated workbook",
+      "outputs": [
+        {
+          "path": "tables/definitions.xlsx",
+          "sha256": "540cfde51ee817ced1c66b2f29d5058369c73a318bd8ccadadbf14daedafee45"
+        }
+      ]
+    },
+    {
+      "source": "tabellen/tabelle-evaluation.xlsx",
+      "source_sha256": "aaf6dbc747ffd01451771ac58d188a4d0e2bcf30a8b6708272d624d3eac2a9b9",
+      "action": "translated workbook",
+      "outputs": [
+        {
+          "path": "tables/evaluation.xlsx",
+          "sha256": "adc9a1a1b0c7b42a9c2901a0b8defa6163998bd9d233daab04a37d71b3319f6e"
+        }
+      ]
+    },
+    {
+      "source": "tabellen/tabelle-screening-wos.xlsx",
+      "source_sha256": "817296499437babc4b40a998c485e8817ef65d706e74b7285ec9616b2688142b",
+      "action": "translated workbook",
+      "outputs": [
+        {
+          "path": "tables/screening-wos.xlsx",
+          "sha256": "64c8dd2cd45473bb2aaec1073ffb868031a79558b7416443109f64b7949ad3d1"
+        }
+      ]
+    },
+    {
+      "source": "tabellen/tabelle-snowballing.xlsx",
+      "source_sha256": "548a44d17039124c7013df2f63a4d90edb904984b1c32194d58f0adf8b999f8f",
+      "action": "translated workbook",
+      "outputs": [
+        {
+          "path": "tables/snowballing.xlsx",
+          "sha256": "82f05648376dc09b1b4eb37d337de23ed5052867c2c7e7fea7b56b8fd1c8a7a0"
+        }
+      ]
+    },
+    {
+      "source": "tabellen/tabelle-suchbegriffe.xlsx",
+      "source_sha256": "9e647cdbfda259b3a622e6a9e444ba2911c93ee6c97ecd23f62c385f651e9858",
+      "action": "translated workbook",
+      "outputs": [
+        {
+          "path": "tables/search-terms.xlsx",
+          "sha256": "5fad023a6931ccfbf57bce5750569661046602acab9db25365a7562817d91164"
+        }
+      ]
+    },
+    {
+      "source": "tabellen/tabelle-taxonomie-entwicklung.xlsx",
+      "source_sha256": "9fbd75ee010279774817d5a40ea6327cf3e36cfca45105e49990a86fe3ad357e",
+      "action": "translated workbook",
+      "outputs": [
+        {
+          "path": "tables/taxonomy-development.xlsx",
+          "sha256": "f5e4d90cbd66b5a9c632b80419e18b8db41caaed27ed888831b9225125bd6ee9"
+        }
+      ]
+    },
+    {
+      "source": "tabellen/tabelle-volltextanalyse.xlsx",
+      "source_sha256": "3d761d7214638059028702218335504e227e0743235214ca975f521cb4de61e2",
+      "action": "translated workbook",
+      "outputs": [
+        {
+          "path": "tables/full-text-analysis.xlsx",
+          "sha256": "cb3cb2f22fd40d80413297bcfdeea29351c07bfe929f524f41e52c123af3fdf1"
+        }
+      ]
+    }
+  ],
+  "additional_documentation": [
+    "docs/source-notes.md"
+  ]
+}
